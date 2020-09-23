@@ -1,7 +1,7 @@
 {
-  "name": "Sass-7-1-boilerplate",
+  "name": "Mint - PSD to code",
   "version": "1.0.0",
-  "description": "Sass-7-1-boilerplate",
+  "description": "Mint - PSD to code",
   "main": "index.js",
   "scripts": {
     "scss": "node-sass -w scss/main.scss -o dist/css/ --recursive"
